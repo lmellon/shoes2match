@@ -1,1 +1,1 @@
-# shoes2match
+# shoes2match-frontend
